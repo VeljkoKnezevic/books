@@ -1,4 +1,4 @@
-package com.example.books;
+package net.codejava.javaee.bookstore;
 
 import java.io.*;
 
