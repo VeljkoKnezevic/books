@@ -11,7 +11,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c71b2eeb-4ebf-4ed6-8b46-35bd0ce39c23" name="Changes" comment="First commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/net/codejava/javaee/bookstore/HelloServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/net/codejava/javaee/bookstore/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/codejava/javaee/bookstore/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Jsp File" />
         <option value="Class" />
       </list>
     </option>
@@ -106,7 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1694276124907</updated>
       <workItem from="1694276126223" duration="96000" />
-      <workItem from="1694341930743" duration="2959000" />
+      <workItem from="1694341930743" duration="6293000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
